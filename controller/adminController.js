@@ -1,4 +1,4 @@
-const { Poor_Story } = require("next/font/google");
+
 const Post = require("../modules/PostModel");
 const { sendEmail } = require("../utils/mailer");
 const Article = require("../modules/Articles");
